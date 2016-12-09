@@ -1,0 +1,7 @@
+#Fri Dec 09 16:00:09 IST 2016
+base.0=C\:\\Users\\Gaurav Agarwal\\Downloads\\Compressed\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb82dcd719f819309bb6f9195ba326988baa09af
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Gaurav Agarwal\\Downloads\\Compressed\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c0715fc48e5fcd1ecb271975573ef9467eb49798\\classes.dex
+base.1=C\:\\Users\\Gaurav Agarwal\\Downloads\\Compressed\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c0715fc48e5fcd1ecb271975573ef9467eb49798
+file.0=C\:\\Users\\Gaurav Agarwal\\Downloads\\Compressed\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb82dcd719f819309bb6f9195ba326988baa09af\\classes.dex
