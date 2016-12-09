@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="22acd159122e05fbad103a755a1918276fb46fa6">
+        sha1="65ac773c44443643ec9c7ada6ce4b9fdd80d7562">
         <dex dex="C:\Users\Gaurav Agarwal\Downloads\Compressed\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fb82dcd719f819309bb6f9195ba326988baa09af\classes.dex" />
     </item>
     <item
@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.1"
-        sha1="36538cb0c7aa59f4ea1558cf398b6759ba8a45c3">
+        sha1="7951e9f20a858d80ba0d08453d1cb164b72ee17c">
         <dex dex="C:\Users\Gaurav Agarwal\Downloads\Compressed\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c0715fc48e5fcd1ecb271975573ef9467eb49798\classes.dex" />
     </item>
     <item
